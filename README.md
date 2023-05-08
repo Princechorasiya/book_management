@@ -21,7 +21,7 @@
 6)GET SUBSCRIPTION DETAILS : /users/subscription-details/:id    method:get;
 
 
-##USERS
+## USERS
 
 1)UPDATE THE USER : /users/:id method:put;
 
@@ -34,7 +34,7 @@
 5)DELETE THE USER : /users/:id   method:delete;
 
 
-#for working on local device
+# for working on local device
 
 1)clone the repo
 
