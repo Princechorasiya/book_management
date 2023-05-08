@@ -1,8 +1,10 @@
-#BOOK MANAGEMENT SYSTEM 
+# BOOK MANAGEMENT SYSTEM 
 
-#SERVER_URL:https://princechorasiya-book-management.onrender.com
+# SERVER_URL:https://princechorasiya-book-management.onrender.com
 
-#API AVAILABLE TO USE
+(note:The platform used to deploy server is render. The server gets offline after 15-30 min of inactivity)
+
+# API AVAILABLE TO USE
 ## BOOKS
 
 1)GET ALL BOOKS :  /books  method:get
