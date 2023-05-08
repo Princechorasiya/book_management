@@ -45,3 +45,9 @@
 4)npm run dev.
 
 
+![Screenshot (55)](https://user-images.githubusercontent.com/115965811/236800234-c2ec5580-31b5-465b-85cf-fcdf20371f6f.png)
+
+![Screenshot (56)](https://user-images.githubusercontent.com/115965811/236800241-9e2cd8d0-c386-449b-9dab-4a402141a12e.png)
+
+
+![Screenshot (57)](https://user-images.githubusercontent.com/115965811/236800263-825c7ed3-b13a-43cb-8f7e-86a946eae17d.png)
