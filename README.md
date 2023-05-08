@@ -84,7 +84,10 @@ GET: Get user subscription details >> Date of Subscription >> Valid till >> Is t
 /books
 GET: Get all the books POST: Create/Add a new book
 
-/books/{id}
+/books/{id
+
+
+
 GET: Get a book by id PUT: Update a book by id
 
 /books/issued
