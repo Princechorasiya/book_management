@@ -19,6 +19,10 @@
 5)DELETE THE USER : /users/:id   method:delete;
 
 #for working on local device
+1)clone the repo
+2)npm install
+3)mongo url in .env key as MONGO_URI
+4)npm run dev.
 mongo build 
 
 npm i mongoose 
