@@ -1,3 +1,24 @@
+#BOOK MANAGEMENT SYSTEM 
+
+#SERVER_URL:https://princechorasiya-book-management.onrender.com
+
+#API AVAILABLE TO USE
+## BOOKS
+1)GET ALL BOOKS :  /books  method:get
+2)GET BY ID : /books/:id   method:get
+3)GET ISSUED BOOKS : /books/issued/by-users   method:get
+4)ADD A BOOK : /books    method:post
+5)UPDATE BOOK :/books/updateBook/:id     method:put;
+6)GET SUBSCRIPTION DETAILS : /users/subscription-details/:id    method:get;
+
+##USERS
+1)UPDATE THE USER : /users/:id method:put;
+2)CREATE THE USER : /users    method:post;
+3) GET USER WITH ID : /users/:id   method :get;
+4)GET ALL USERS : /users       method: get;
+5)DELETE THE USER : /users/:id   method:delete;
+
+#for working on local device
 mongo build 
 
 npm i mongoose 
